@@ -1,2 +1,2 @@
 REPORT ZTESTNB12.
-write 'Hello world'.
+write 'Hello world.  This is a demo'.
