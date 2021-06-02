@@ -4,4 +4,4 @@
 *&
 *&---------------------------------------------------------------------*
 REPORT ZTESTPROG.
-write 'Hello world'.
+write 'Hello world Git'.
